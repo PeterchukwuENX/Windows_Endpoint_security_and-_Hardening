@@ -37,7 +37,8 @@ The results provide the starting point for the remaining hardening phases of the
 
 The baseline assessment was captured with supporting screenshots.
 
-![Windows Endpoint Baseline](../screenshots/windows-baseline.png)
+<img width="1024" height="768" alt="windows-baseline png" src="https://github.com/user-attachments/assets/eed24542-a0b2-4263-a2b3-16da8d80e573" />
+
 
 **Figure 1:** Initial Windows endpoint security baseline collected before hardening.
 
