@@ -19,7 +19,7 @@ The following areas were reviewed:
 - Real-time protection status
 - Windows Firewall configuration
 - Firewall default actions
-- Local account and password policy
+- Local account and password policy.
 
 ---
 
