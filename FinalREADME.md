@@ -138,7 +138,7 @@ This demonstrates an important security principle:
 
 > **Not every control requires modification. Assess first, then remediate where necessary.**
 
-[View Defender assessment](hardening/defender.md)
+
 
 ---
 
@@ -154,7 +154,7 @@ The assessment included:
 
 The firewall configuration was documented as part of the assessment rather than making unnecessary changes without sufficient evidence that remediation was required.
 
-[View Firewall assessment](hardening/firewall.md)
+
 
 ---
 
@@ -166,7 +166,6 @@ The assessment confirmed that the relevant PowerShell logging configuration was 
 
 No unnecessary changes were made after verification.
 
-[View PowerShell logging assessment](hardening/powershell-logging.md)
 
 ---
 
@@ -184,7 +183,6 @@ The assessment focused on security-relevant auditing categories including:
 
 The audit configuration was reviewed as part of the endpoint visibility assessment.
 
-[View audit policy assessment](hardening/audit-policy.md)
 
 ---
 
@@ -200,7 +198,7 @@ The verification stage focused on confirming that:
 - PowerShell logging was enabled
 - Windows security auditing had been reviewed
 
-[View final verification](verification/final-verification.md)
+
 
 ---
 
